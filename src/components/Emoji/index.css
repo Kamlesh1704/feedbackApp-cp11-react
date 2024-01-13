@@ -1,0 +1,21 @@
+.eachemojidiv {
+  margin: 30px;
+  list-style-type: none;
+  text-align: center;
+  padding: 0px;
+}
+.img {
+  height: 60px;
+  width: 70px;
+  padding: 0px;
+}
+.para {
+  font-size: 25px;
+  font-family: 'roboto';
+  color: black;
+}
+.button {
+  outline: none;
+  background-color: white;
+  border: none;
+}

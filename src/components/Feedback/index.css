@@ -1,0 +1,52 @@
+/* Write your CSS code here. */
+.bg {
+  background-color: rgb(155, 253, 229);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  background-color: white;
+  border-radius: 20px;
+  height: 400px;
+  width: 600px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+}
+.heading {
+  font-family: 'roboto';
+  font-size: 30px;
+  padding-top: 5px;
+  padding-bottom: 2px;
+  text-align: center;
+}
+.emojidiv {
+  display: flex;
+}
+
+.lovecard {
+  background-color: white;
+  border-radius: 15px;
+  height: 300px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.loveemoji {
+  height: 70px;
+  width: 90px;
+}
+.paralove {
+  color: grey;
+  text-align: center;
+}
+.headinglove {
+  color: black;
+  font-weight: bold;
+}
